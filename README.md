@@ -43,10 +43,3 @@ Live Demo 👉 [https://resumeai.vercel.app/](https://resumeai-an-ai-resume-anal
 
 ---
 
-## ⚙️ Getting Started
-
-### 1. Clone the Repo
-
-```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/RESUMEAI.git
-cd RESUMEAI
