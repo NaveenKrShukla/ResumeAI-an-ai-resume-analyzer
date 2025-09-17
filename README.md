@@ -1,6 +1,6 @@
 # 🤖 RESUMEAI – AI-Powered Resume Analyzer
 
-Live Demo 👉 [https://resumeai.vercel.app/](https://resumeai-an-ai-resume-analyzer.vercel.app/)
+Live Demo 👉 [https://resumeai-an-ai-resume-analyzer.vercel.app/](https://resumeai-an-ai-resume-analyzer.vercel.app/)
 
 **RESUMEAI** is a smart, AI-powered resume analyzer that allows users to upload resumes, receive detailed feedback, and get ATS (Applicant Tracking System) scores based on job listings. Built with **React**, **TypeScript**, and **Puter.js**, it's fully serverless, fast, and beginner-friendly.
 
