@@ -37,7 +37,8 @@ Live Demo 👉 [https://resumeai-an-ai-resume-analyzer.vercel.app/](https://resu
 <img width="2163" height="1438" alt="image" src="https://github.com/user-attachments/assets/797e9cc7-8006-4642-bea9-60f14ad64dee" />
 <img width="2160" height="1707" alt="image" src="https://github.com/user-attachments/assets/796769a8-fce0-4b7d-964d-d94302699af7" />
 <img width="3118" height="1495" alt="image" src="https://github.com/user-attachments/assets/728b5b7a-03b7-400c-9eeb-8bed76b42862" />
-<img width="3121" height="1708" alt="image" src="https://github.com/user-attachments/assets/5480159f-f49d-43d1-b359-d612e89fa7ce" />
+<img width="3044" height="1686" alt="image" src="https://github.com/user-attachments/assets/a30c01bf-c814-4f0d-84ec-1901ea61cfcf" />
+
 
 
 
